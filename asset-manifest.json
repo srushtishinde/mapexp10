@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mapexp10/static/css/main.e39cf1bf.css",
+    "main.js": "/mapexp10/static/js/main.2ce0b4ff.js",
+    "static/js/377.9e093452.chunk.js": "/mapexp10/static/js/377.9e093452.chunk.js",
+    "service-worker.js": "/mapexp10/service-worker.js",
+    "index.html": "/mapexp10/index.html",
+    "main.e39cf1bf.css.map": "/mapexp10/static/css/main.e39cf1bf.css.map",
+    "main.2ce0b4ff.js.map": "/mapexp10/static/js/main.2ce0b4ff.js.map",
+    "377.9e093452.chunk.js.map": "/mapexp10/static/js/377.9e093452.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e39cf1bf.css",
+    "static/js/main.2ce0b4ff.js"
+  ]
+}
