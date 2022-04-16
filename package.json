@@ -2,7 +2,7 @@
   "name": "pwa-srushti",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://srushtishinde.github.io/mapexp10",
+  "homepage": "",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^11.2.7",
